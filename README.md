@@ -53,7 +53,7 @@ The interface features a clean, minimal design optimized for readability and qui
 
 | Home Screen (Search) | Result View (Weather Data) |
 |:---:|:---:|
-| <img width="540" alt="image" src="https://github.com/user-attachments/assets/c70f205e-0512-4847-a5e8-a184ba94e4c0" /> | <img src="https://github.com/user-attachments/assets/57d6ea79-43f6-4d42-9307-ae692cf347bc" width="540" alt="Weather Results" /> |
+| <img src="https://github.com/user-attachments/assets/efeb0876-3b36-48cd-b916-5ef0622cb595" width="280" alt="Home Screen"/> | <img src="https://github.com/user-attachments/assets/57d6ea79-43f6-4d42-9307-ae692cf347bc" width="280" alt="Weather Results" /> |
 | *Initial landing state with search* | *Live weather data with dynamic icons* |
 
 ---
