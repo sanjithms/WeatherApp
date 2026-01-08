@@ -47,26 +47,14 @@ This project follows a modular frontend architecture:
 
 ---
 
-## 📸 Output & Visuals
+## 📸 Project Showcase
 
-### Desktop & Mobile Interface
-Below are the visual snapshots of the application across different device profiles:
+The interface features a clean, minimal design optimized for readability and quick data assessment.
 
-| Platform | Interface Preview |
-|:--- |:--- |
-| **Desktop Dashboard** | <img src="./screenshots/desktop.png" width="500" Alt="Desktop View"> |
-| **Mobile Experience** | <img src="./screenshots/mobile.png" width="250" Alt="Mobile View"> |
-
-### 🖼️ Detailed Screenshot Gallery
-> To see the app in different states, view the folder: `/screenshots`
-
-#### 1. Clear Weather State
-![Clear State](./screenshots/main_output.png)
-*Description: The UI displays a vibrant sun icon and high-contrast text for outdoor visibility.*
-
-#### 2. Storm/Rain State
-![Rain State](./screenshots/search_output.png)
-*Description: The app shifts to a darker, muted palette with rain-specific animations.*
+| Home Screen (Search) | Result View (Weather Data) |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/73d8d6df-7036-4c80-ae84-a16b38f50495" width="280" alt="Home Screen" /> | <img src="https://github.com/user-attachments/assets/57d6ea79-43f6-4d42-9307-ae692cf347bc" width="280" alt="Weather Results" /> |
+| *Initial landing state with search* | *Live weather data with dynamic icons* |
 
 ---
 
